@@ -1,0 +1,31 @@
+# I/O
+
+pymongo
+pymysql
+PyYAML
+xlrd
+requests
+
+# Data
+
+pandas
+scipy
+numpy
+
+# Algorithm
+
+scikit-learn
+keras
+networkx
+
+# Visualization
+
+matplotlib
+pyecharts
+colorcet
+
+# Tool
+
+jupyter
+jupyter_contrib_nbextensions
+tqdm
