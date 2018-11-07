@@ -4,6 +4,6 @@ RUN apt-get -y update
 RUN apt-get -y install vim
 RUN apt-get -y install git
 
-RUN pip install -r requirements.txt
-
+COPY . /home
 WORKDIR /home
+RUN pip install -r requirements.txt
